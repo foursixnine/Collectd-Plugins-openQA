@@ -6,3 +6,4 @@ A collectd perl plugin for openQA worker systemd unit check
 * http://open.qa
 * https://github.com/os-autoinst/openQA/
 * https://progress.opensuse.org/issues/41885
+* https://apfelboymchen.net/gnu/collectd/collectd-perl.html
